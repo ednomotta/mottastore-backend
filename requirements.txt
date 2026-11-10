@@ -2,3 +2,4 @@ flask
 flask-cors
 mercadopago
 gunicorn
+werkzeug
